@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    font-family:  sans-serif;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.mZpkPiK1TTc-gDCkSEJR2QHaEo&pid=Api&P=0&h=180");
+    background-size: cover;
+    background-position: top right;
+    background-blend-mode: multiply;
+    background-color: var(--BGCOLOR);
+    color: var(--COLOR);
+    
+} 
